@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Details Screen</string>
+    <string name="home">Github Repositeries</string>
+    <string name="details">Details</string>
+    <string name="back_arrow">Back</string>
+    <string name="show_issues">Show Issues</string>
+</resources>
